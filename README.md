@@ -1,0 +1,1 @@
+Code for interactive installations for Glowing Reminders, a show exploring the social phenomenon of FOMO. Glowing Reminders will take place in Seattle during late March-early April. This is currently a WIP.
